@@ -6,3 +6,4 @@ for element in setlist:
     frequency = numbers.count(element)
 
     print('element =', element, 'frequency :', frequency)
+    
